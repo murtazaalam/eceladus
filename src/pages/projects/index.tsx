@@ -44,10 +44,10 @@ const stats = [
   },
   {
     icon: <HomeWorkOutlinedIcon />,
-    value: "200+",
+    value: "1200+",
     label: "Projects Delivered",
   },
-  { icon: <PeopleAltOutlinedIcon />, value: "700+", label: "Happy Clients" },
+  { icon: <PeopleAltOutlinedIcon />, value: "1000+", label: "Happy Clients" },
   { icon: <BarChartRoundedIcon />, value: "₹100Cr+", label: "Project Value" },
 ];
 
@@ -216,7 +216,7 @@ const projects = [
     desc: "Net-metered rooftop solar project enabling homeowners to generate their own electricity and benefit from clean, sustainable power.",
     image: sl11,
   },
-  {
+  /*{
     id: 16,
     category: "interior",
     title: "Corporate HQ — Tech Mahindra Patna",
@@ -228,7 +228,7 @@ const projects = [
     tagColor: "#10b981",
     desc: "Contemporary open-plan office with biophilic design, acoustic panels, collaborative zones, and ergonomic workstations.",
     image: int1,
-  },
+  },*/
   {
     id: 17,
     category: "interior",

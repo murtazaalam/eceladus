@@ -26,13 +26,13 @@ const stats: Stat[] = [
   },
   {
     Icon: TaskAltIcon,
-    numericValue: 100,
+    numericValue: 1200,
     suffix: "+",
     label: "Projects Delivered",
   },
   {
     Icon: WbSunnyIcon,
-    numericValue: 1,
+    numericValue: 4,
     suffix: "MW+",
     label: "Solar Capacity",
   },

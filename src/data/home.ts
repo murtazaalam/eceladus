@@ -30,8 +30,8 @@ import { label } from "framer-motion/client";
 export const companyFeatures = [
   "2+ Years of Industry Leadership",
   "50+ Government Projects",
-  "120+ Renovations Completed",
-  "1MW+ Solar Infrastructure",
+  "1200+ Renovations Completed",
+  "4MW+ Solar Infrastructure",
 ];
 
 export const clients = [
